@@ -1,0 +1,31 @@
+span {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.form__links {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.form__link {
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.support__block {
+  display: flex;
+  align-items: center;
+}
+
+.support__link {
+  padding-left: 10px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: grey;
+}

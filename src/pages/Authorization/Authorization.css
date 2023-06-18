@@ -1,0 +1,38 @@
+.authorization {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title__item {
+  margin-left: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  color: black;
+  font-weight: lighter;
+}
+
+.title__item__web {
+  margin-left: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  color: black;
+  font-weight: 600;
+}
+
+.myBtn {
+  height: 4%;
+  min-width: 20%;
+}
+
+.myBtn__text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+}

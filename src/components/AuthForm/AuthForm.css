@@ -1,0 +1,26 @@
+form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form__header {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  padding-right: 5vh;
+  margin-bottom: 40px;
+}
+
+.login__text {
+  color: white;
+  font-size: 15px;
+  font-family: "Montserrat", serif;
+  font-weight: 500;
+}
+
+.myBtnLogin {
+  height: 40px;
+  min-width: 92%;
+}
